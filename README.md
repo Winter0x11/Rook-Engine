@@ -1,4 +1,6 @@
-# 2D Physics Engine (Phase 1: Particle Dynamics)
+# Ruin Engine
+
+A 2D Physics Engine (Phase 1: Particle Dynamics)
 
 A minimalist 2D physics engine starter project written in Rust with a data-oriented C mindset: plain structs, parallel `Vec` arrays, and integer index handles instead of pointers or complex object hierarchies.
 
