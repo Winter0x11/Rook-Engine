@@ -35,7 +35,7 @@ async fn main() {
             let (mx, my) = mouse_position();
             // Give a slight initial horizontal nudge based on distance from screen center
             let nudge_vx = (mx - world.width * 0.5) * 0.5;
-            world.add_body(Vec2::new(mx, my), Vec2::new(nudge_vx, -50), 1.0, 20.0);
+            world.add_body(Vec2::new(mx, my), Vec2::new(nudge_vx, -50.0), 1.0, 20.0);
         }
 
         // Advance simulation with fixed 60 Hz timesteps
