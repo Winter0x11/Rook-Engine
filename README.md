@@ -31,6 +31,7 @@ Rook-Engine/
 ├── Makefile           # Make-based build and run targets
 ├── CMakeLists.txt     # CMake project configuration
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -115,4 +116,8 @@ These are future directions, not features currently available.
 
 ## License
 
-No license file is currently present in the repository. Until a license is added, assume the project is not licensed for reuse or redistribution.
+Rook Engine's original code is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for the complete terms.
+
+SPDX identifier: `Apache-2.0`.
+
+This license applies to Rook Engine's own code; third-party dependencies such as Raylib remain under their respective licenses.
