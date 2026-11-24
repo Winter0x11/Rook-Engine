@@ -1,4 +1,15 @@
-/target
-.cargo_home
-**/*.rs.bk
+# Build artifacts
+*.o
+*.a
+*.so
+engine_demo
+build/
+
+# Editor & temporary files
 *.swp
+*.swo
+*~
+.vscode/
+.idea/
+compile_commands.json
+.cache/
