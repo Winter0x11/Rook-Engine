@@ -1,5 +1,6 @@
-<img width="1254" height="1254" alt="Rook engine logo" src="https://github.com/user-attachments/assets/04666e32-3678-4602-9e3f-f12c325efe67" />
-
+<p align="center">
+  <img width="220" height="220" alt="Rook Engine logo" src="https://github.com/user-attachments/assets/04666e32-3678-4602-9e3f-f12c325efe67" />
+</p>
 
 # Rook Engine
 
