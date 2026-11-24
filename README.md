@@ -1,3 +1,6 @@
+<img width="1254" height="1254" alt="Rook engine logo" src="https://github.com/user-attachments/assets/04666e32-3678-4602-9e3f-f12c325efe67" />
+
+
 # Rook Engine
 
 > 🚧 **STATUS: IN DEVELOPMENT** — Rook Engine is an active work in progress. Features, architecture, and APIs may change as development continues.
