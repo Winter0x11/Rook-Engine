@@ -27,7 +27,7 @@ int main() {
     const int screenWidth = 1280;
     const int screenHeight = 720;
     SetConfigFlags(FLAG_MSAA_4X_HINT); // 4x anti-aliasing for smooth edges
-    InitWindow(screenWidth, screenHeight, "Point Orbit Engine (Raylib)");
+    InitWindow(screenWidth, screenHeight, "Rook Engine");
     SetTargetFPS(60); // Lock simulation to a smooth 60 FPS
 
     // 2. Set up our Orbit Camera parameters (matching the screenshot)

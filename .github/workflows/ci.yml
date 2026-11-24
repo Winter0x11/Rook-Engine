@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: Build C++ Raylib Engine
+    name: Build Rook Engine
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

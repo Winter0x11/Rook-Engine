@@ -1,4 +1,4 @@
-# Ruin Engine (C++ 3D with Raylib)
+# Rook Engine (C++ 3D with Raylib)
 
 A beginner-friendly 3D graphics & physics engine testbed written in C++ using **Raylib**.
 
