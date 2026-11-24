@@ -1,5 +1,7 @@
 # Rook Engine
 
+> 🚧 **STATUS: IN DEVELOPMENT** — Rook Engine is an active work in progress. Features, architecture, and APIs may change as development continues.
+
 A small 3D engine experiment built with **C++17** and **Raylib 6**.
 
 Rook Engine is currently a learning-focused 3D rendering and interaction testbed. It explores the foundations of a real-time engine: 3D transforms, camera movement, scene data, drawing, input handling, and a lightweight immediate-mode GUI.
@@ -76,7 +78,7 @@ cmake --build build
 ./build/engine_demo
 ```
 
-On Windows, run the generated executable from the build directory (for example, `build\Debug\engine_demo.exe` with a Visual Studio generator).
+On Windows, run the generated executable from the build directory (for example, `build\\Debug\\engine_demo.exe` with a Visual Studio generator).
 
 ## Controls
 
